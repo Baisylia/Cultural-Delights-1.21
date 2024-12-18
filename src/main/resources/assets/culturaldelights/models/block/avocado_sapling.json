@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "culturaldelights:block/avocado_sapling"
+  }
+}

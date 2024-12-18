@@ -1,0 +1,6 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "culturaldelights:block/corn_stage0"
+  }
+}

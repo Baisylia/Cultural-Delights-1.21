@@ -1,0 +1,34 @@
+{
+  "values": {
+    "culturaldelights:avocado_pit": {
+      "chance": 0.25
+    },
+    "culturaldelights:avocado_sapling": {
+      "chance": 0.45
+    },
+    "culturaldelights:avocado_toast": {
+      "chance": 0.45
+    },
+    "culturaldelights:corn_cob": {
+      "chance": 0.45
+    },
+    "culturaldelights:corn_kernels": {
+      "chance": 0.25
+    },
+    "culturaldelights:cucumber": {
+      "chance": 0.45
+    },
+    "culturaldelights:cucumber_seeds": {
+      "chance": 0.25
+    },
+    "culturaldelights:eggplant": {
+      "chance": 0.45
+    },
+    "culturaldelights:eggplant_seeds": {
+      "chance": 0.25
+    },
+    "culturaldelights:pickle": {
+      "chance": 0.45
+    }
+  }
+}

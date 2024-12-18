@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "culturaldelights:block/eggplants_stage5"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "culturaldelights:block/bamboo_mat",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "culturaldelights:block/bamboo_mat"
+    },
+    "facing=south": {
+      "model": "culturaldelights:block/bamboo_mat",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "culturaldelights:block/bamboo_mat",
+      "y": 270
+    }
+  }
+}

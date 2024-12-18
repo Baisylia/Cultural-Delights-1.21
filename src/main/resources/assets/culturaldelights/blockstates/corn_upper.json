@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "culturaldelights:block/corn_upper_stage0"
+    },
+    "age=1": {
+      "model": "culturaldelights:block/corn_upper_stage1"
+    },
+    "age=2": {
+      "model": "culturaldelights:block/corn_upper_stage2"
+    },
+    "age=3": {
+      "model": "culturaldelights:block/corn_upper_stage3"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "side": "culturaldelights:block/cucumber_crate_side",
+    "bottom": "culturaldelights:block/crate_bottom",
+    "top": "culturaldelights:block/cucumber_crate_top"
+  }
+}

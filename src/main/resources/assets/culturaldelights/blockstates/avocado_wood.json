@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "culturaldelights:block/avocado_wood_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "culturaldelights:block/avocado_wood"
+    },
+    "axis=z": {
+      "model": "culturaldelights:block/avocado_wood_horizontal",
+      "x": 90
+    }
+  }
+}

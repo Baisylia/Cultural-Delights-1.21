@@ -1,0 +1,13 @@
+{
+  "values": {
+    "culturaldelights:avocado_log": {
+      "burn_time": 50
+    },
+    "culturaldelights:avocado_sapling": {
+      "burn_time": 50
+    },
+    "culturaldelights:avocado_wood": {
+      "burn_time": 50
+    }
+  }
+}
