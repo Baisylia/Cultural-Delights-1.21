@@ -1,0 +1,22 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "culturaldelights:glow_squid"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  },
+  "result": [
+    {
+      "item": "culturaldelights:raw_calamari",
+      "count": 2
+    },
+    {
+      "item": "minecraft:glow_ink_sac",
+      "count": 3,
+      "chance": 0.5
+    }
+  ]
+}

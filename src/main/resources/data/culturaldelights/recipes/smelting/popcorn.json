@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "culturaldelights:corn_kernels"
+  },
+  "result": "culturaldelights:popcorn",
+  "experience": 0.35,
+  "cookingtime": 200
+}

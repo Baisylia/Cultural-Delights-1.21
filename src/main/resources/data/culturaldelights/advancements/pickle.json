@@ -1,0 +1,33 @@
+{
+  "parent": "farmersdelight:main/craft_knife",
+  "display": {
+    "icon": {
+      "item": "culturaldelights:pickle"
+    },
+    "title": "Funniest thing I've ever seen!",
+    "description": "Pickle a cucumber in the fermenter",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "pickle": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+	      "culturaldelights:pickle"
+ 	    ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "pickle"
+    ]
+  ]
+}

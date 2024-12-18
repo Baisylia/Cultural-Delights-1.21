@@ -5,14 +5,17 @@ import com.ncpbails.culturaldelights.block.ModBlocks;
 import com.ncpbails.culturaldelights.block.custom.FruitingLeaves;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.data.worldgen.BootstrapContext;
+import net.minecraft.data.worldgen.features.FeatureUtils;
 import net.minecraft.resources.ResourceKey;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.util.random.SimpleWeightedRandomList;
 import net.minecraft.util.valueproviders.ConstantInt;
+import net.minecraft.world.level.block.Blocks;
 import net.minecraft.world.level.block.state.BlockState;
 import net.minecraft.world.level.levelgen.feature.ConfiguredFeature;
 import net.minecraft.world.level.levelgen.feature.Feature;
 import net.minecraft.world.level.levelgen.feature.configurations.FeatureConfiguration;
+import net.minecraft.world.level.levelgen.feature.configurations.SimpleBlockConfiguration;
 import net.minecraft.world.level.levelgen.feature.configurations.TreeConfiguration;
 import net.minecraft.world.level.levelgen.feature.featuresize.TwoLayersFeatureSize;
 import net.minecraft.world.level.levelgen.feature.foliageplacers.AcaciaFoliagePlacer;
@@ -20,8 +23,13 @@ import net.minecraft.world.level.levelgen.feature.stateproviders.BlockStateProvi
 import net.minecraft.world.level.levelgen.feature.stateproviders.WeightedStateProvider;
 import net.minecraft.world.level.levelgen.feature.trunkplacers.StraightTrunkPlacer;
 
+import java.util.List;
+
 public class ModConfiguredFeatures {
     public static final ResourceKey<ConfiguredFeature<?, ?>> AVOCADO_KEY = registerKey("avocado");
+    public static final ResourceKey<ConfiguredFeature<?, ?>> CORN_KEY = registerKey("corn");
+    public static final ResourceKey<ConfiguredFeature<?, ?>> EGGPLANT_KEY = registerKey("eggplant");
+    public static final ResourceKey<ConfiguredFeature<?, ?>> CUCUMBER_KEY = registerKey("cucumber");
 
     public static void bootstrap(BootstrapContext<ConfiguredFeature<?, ?>> context) {
 
@@ -33,6 +41,21 @@ public class ModConfiguredFeatures {
                 new AcaciaFoliagePlacer(ConstantInt.of(3), ConstantInt.of(0)),
                 new TwoLayersFeatureSize(1, 0, 1)).ignoreVines().build());
 
+
+        register(context, CORN_KEY, Feature.RANDOM_PATCH,
+                FeatureUtils.simplePatchConfiguration(Feature.SIMPLE_BLOCK,
+                        new SimpleBlockConfiguration(BlockStateProvider.simple(ModBlocks.WILD_CORN.get()
+                                .defaultBlockState())), List.of(Blocks.GRASS_BLOCK)));
+
+        register(context, EGGPLANT_KEY, Feature.RANDOM_PATCH,
+                FeatureUtils.simplePatchConfiguration(Feature.SIMPLE_BLOCK,
+                        new SimpleBlockConfiguration(BlockStateProvider.simple(ModBlocks.WILD_EGGPLANTS.get()
+                                .defaultBlockState())), List.of(Blocks.GRASS_BLOCK)));
+
+        register(context, CUCUMBER_KEY, Feature.RANDOM_PATCH,
+                FeatureUtils.simplePatchConfiguration(Feature.SIMPLE_BLOCK,
+                        new SimpleBlockConfiguration(BlockStateProvider.simple(ModBlocks.WILD_CUCUMBERS.get()
+                                .defaultBlockState())), List.of(Blocks.GRASS_BLOCK)));
     }
 
     public static ResourceKey<ConfiguredFeature<?, ?>> registerKey(String name) {

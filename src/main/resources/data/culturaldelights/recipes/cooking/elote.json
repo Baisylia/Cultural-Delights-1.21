@@ -1,0 +1,20 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "forge:crops/corn"
+    },
+    {
+      "tag": "forge:milk"
+    }
+  ],
+  "result": {
+    "item": "culturaldelights:elote",
+    "count": 1
+  },
+  "container": {
+    "item": "minecraft:stick"
+  },
+  "experience": 0.2,
+  "cookingtime": 200
+}

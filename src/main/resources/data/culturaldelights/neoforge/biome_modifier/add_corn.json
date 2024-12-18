@@ -1,0 +1,11 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "minecraft:plains",
+    "minecraft:sunflower_plains",
+    "minecraft:snowy_plains",
+    "minecraft:savanna_plateau"
+  ],
+  "features": "culturaldelights:corn_placed",
+  "step": "vegetal_decoration"
+}

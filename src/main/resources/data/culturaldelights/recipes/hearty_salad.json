@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:crops/tomato"
+    },
+    {
+      "tag": "culturaldelights:avocados"
+    },
+    {
+      "tag": "forge:crops/corn"
+    },
+    {
+      "item": "culturaldelights:cucumber"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "item": "culturaldelights:hearty_salad"
+  }
+}

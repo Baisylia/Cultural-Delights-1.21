@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "culturaldelights:white_eggplant_crate"
+    }
+  ],
+  "result": {
+    "item": "culturaldelights:white_eggplant",
+    "count": 9
+  }
+}

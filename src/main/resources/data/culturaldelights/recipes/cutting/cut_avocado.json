@@ -1,0 +1,20 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "culturaldelights:avocado"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  },
+  "result": [
+    {
+      "item": "culturaldelights:cut_avocado",
+      "count": 2
+    },
+    {
+      "item": "culturaldelights:avocado_pit"
+    }
+  ]
+}

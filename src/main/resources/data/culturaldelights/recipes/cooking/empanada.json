@@ -1,0 +1,26 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "culturaldelights:corn_dough"
+    },
+    {
+      "item": "culturaldelights:corn_dough"
+    },
+    {
+      "tag": "culturaldelights:avocados"
+    },
+    {
+      "tag": "forge:crops/tomato"
+    },
+    {
+      "tag": "forge:crops/onion"
+    }
+  ],
+  "result": {
+    "item": "culturaldelights:empanada",
+    "count": 2
+  },
+  "experience": 0.1,
+  "cookingtime": 100
+}
