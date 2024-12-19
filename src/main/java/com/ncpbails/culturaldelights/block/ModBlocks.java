@@ -3,7 +3,7 @@ package com.ncpbails.culturaldelights.block;
 import com.ncpbails.culturaldelights.CulturalDelights;
 import com.ncpbails.culturaldelights.block.custom.*;
 import com.ncpbails.culturaldelights.item.ModItems;
-import com.ncpbails.culturaldelights.world.ModTreeGrowers;
+import com.ncpbails.culturaldelights.world.tree.ModTreeGrowers;
 import net.minecraft.core.BlockPos;
 import net.minecraft.core.Direction;
 import net.minecraft.world.effect.MobEffects;

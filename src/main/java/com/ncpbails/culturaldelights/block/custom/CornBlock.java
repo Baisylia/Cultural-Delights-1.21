@@ -46,7 +46,7 @@ public class CornBlock extends BushBlock implements BonemealableBlock {
     public static final BooleanProperty SUPPORTING;
     private static final VoxelShape[] SHAPE_BY_AGE;
 
-    public CornBlock(Properties properties) {
+    public CornBlock(BlockBehaviour.Properties properties) {
         super(properties);
         this.registerDefaultState((BlockState)((BlockState)this.defaultBlockState().setValue(AGE, 0)).setValue(SUPPORTING, false));
     }
@@ -104,7 +104,7 @@ public class CornBlock extends BushBlock implements BonemealableBlock {
         return (BlockState)this.defaultBlockState().setValue(this.getAgeProperty(), age);
     }
 
-    protected void createBlockStateDefinition(Builder<Block, BlockState> builder) {
+    protected void createBlockStateDefinition(StateDefinition.Builder<Block, BlockState> builder) {
         builder.add(new Property[]{AGE, SUPPORTING});
     }
 
