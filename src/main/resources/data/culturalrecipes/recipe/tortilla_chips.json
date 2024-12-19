@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "culturaldelights:tortilla"
+    }
+  },
+  "result": {
+    "count": 2,
+    "id": "culturaldelights:tortilla_chips"
+  }
+}

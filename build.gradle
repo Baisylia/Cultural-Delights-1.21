@@ -1,5 +1,7 @@
 plugins {
     id 'java-library'
+    id 'eclipse'
+    id 'idea'
     id 'maven-publish'
     id 'net.neoforged.moddev' version '1.0.21'
 }
@@ -18,10 +20,17 @@ group = mod_group_id
 
 repositories {
     // JEI
-    maven {
-
-        name = "Progwml6 maven"
-        url = "https://dvs1.progwml6.com/files/maven/"
+    repositories {
+        maven {
+            // location of the maven that hosts JEI files since January 2023
+            name = "Jared's maven"
+            url = "https://maven.blamejared.com/"
+        }
+        maven {
+            // location of a maven mirror for JEI files, as a fallback
+            name = "ModMaven"
+            url = "https://modmaven.dev"
+        }
     }
     // Appleskin
     maven { url "https://maven.ryanliptak.com/" }
@@ -123,6 +132,8 @@ configurations {
 dependencies {
     implementation "maven.modrinth:farmers-delight:${project.farmers_delight_version}"
     //implementation "maven.modrinth:jei:${project.jei_version}"
+    runtimeOnly("mezz.jei:jei-1.21.1-neoforge:${jei_version}")
+
     localRuntime "maven.modrinth:appleskin:${project.appleskin_version}"
 }
 

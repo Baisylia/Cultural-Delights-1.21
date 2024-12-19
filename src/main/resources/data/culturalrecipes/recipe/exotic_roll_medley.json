@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "culturaldelights:chicken_roll_slice"
+    },
+    {
+      "item": "culturaldelights:chicken_roll_slice"
+    },
+    {
+      "item": "culturaldelights:chicken_roll_slice"
+    },
+    {
+      "item": "culturaldelights:tropical_roll"
+    },
+    {
+      "item": "culturaldelights:tropical_roll"
+    },
+    {
+      "item": "culturaldelights:tropical_roll"
+    },
+    {
+      "item": "culturaldelights:pufferfish_roll"
+    },
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "culturaldelights:pufferfish_roll"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "culturaldelights:exotic_roll_medley"
+  }
+}
