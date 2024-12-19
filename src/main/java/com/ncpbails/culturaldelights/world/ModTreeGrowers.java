@@ -1,4 +1,4 @@
-package com.ncpbails.culturaldelights.world.tree;
+package com.ncpbails.culturaldelights.world;
 
 import com.ncpbails.culturaldelights.CulturalDelights;
 import com.ncpbails.culturaldelights.world.ModConfiguredFeatures;
