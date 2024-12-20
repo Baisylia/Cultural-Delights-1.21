@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smelting",
-  "ingredient": {
-    "item": "culturaldelights:raw_calamari"
-  },
-  "result": "culturaldelights:cooked_calamari",
-  "experience": 0.35,
-  "cookingtime": 200
-}

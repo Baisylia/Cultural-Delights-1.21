@@ -2,13 +2,13 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "tag": "c:bread"
+      "tag": "c:foods/bread"
     },
     {
       "tag": "culturaldelights:cooked_muttons"
     },
     {
-      "tag": "c:cooked_egg"
+      "tag": "c:foods/cooked_egg"
     },
     {
       "item": "minecraft:beetroot"

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "culturaldelights:corn_cob_crate"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "culturaldelights:corn_cob"
+  }
+}

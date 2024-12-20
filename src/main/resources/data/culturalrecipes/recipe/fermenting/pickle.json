@@ -1,0 +1,26 @@
+{
+  "type": "brewinandchewin:fermenting"
+},
+    "experience": 0.6,
+  "fermentingtime": 12000,
+  "ingredients": [
+    {
+      "item": "culturaldelights:cucumber"
+    },
+    {
+      "item": "culturaldelights:cucumber"
+    },
+    {
+      "item": "culturaldelights:cucumber"
+    },
+    {
+      "item": "culturaldelights:cucumber"
+    }
+  ],
+  "recipe_book_tab": "misc",
+  "result": {
+    "count": 4,
+    "item": "culturaldelights:pickle"
+  },
+  "temperature": 2
+}
