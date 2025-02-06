@@ -51,6 +51,7 @@ public class ModCreativeModeTabs {
                 output.accept(ModItems.BEEF_BURRITO);
                 output.accept(ModItems.MUTTON_SANDWICH);
                 output.accept(ModItems.FRIED_EGGPLANT_PASTA);
+                output.accept(ModItems.POACHED_EGGPLANTS);
                 output.accept(ModItems.EGGPLANT_BURGER);
                 output.accept(ModItems.AVOCADO_TOAST);
                 output.accept(ModItems.CREAMED_CORN);

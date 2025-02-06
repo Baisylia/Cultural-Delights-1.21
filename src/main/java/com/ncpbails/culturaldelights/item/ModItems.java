@@ -118,6 +118,9 @@ public class ModItems {
     public static final DeferredItem<Item> FRIED_EGGPLANT_PASTA = ITEMS.register("fried_eggplant_pasta",
             () -> new Item(new Item.Properties().stacksTo(16).food(ModFoods.FRIED_EGGPLANT_PASTA)));
 
+    public static final DeferredItem<Item> POACHED_EGGPLANTS = ITEMS.register("poached_eggplants",
+            () -> new Item(new Item.Properties().stacksTo(16).food(ModFoods.POACHED_EGGPLANTS)));
+
     public static final DeferredItem<Item> EGGPLANT_BURGER = ITEMS.register("eggplant_burger",
             () -> new Item(new Item.Properties().food(ModFoods.EGGPLANT_BURGER)));
 

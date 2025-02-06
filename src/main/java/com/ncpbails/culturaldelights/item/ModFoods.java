@@ -66,5 +66,7 @@ public class ModFoods {
     public static final FoodProperties EGGPLANT_BURGER = (new FoodProperties.Builder()).nutrition(12).saturationModifier(0.7F).build();
     public static final FoodProperties SPICY_CURRY = (new FoodProperties.Builder()).nutrition(12).saturationModifier(1.3F)
             .effect(() -> new MobEffectInstance(ModEffects.NOURISHMENT, FoodValues.LONG_DURATION, 0), 1.0F).usingConvertsTo(Items.BOWL).build();
+    public static final FoodProperties POACHED_EGGPLANTS = (new FoodProperties.Builder()).nutrition(8).saturationModifier(1.0F)
+            .effect(() -> new MobEffectInstance(ModEffects.NOURISHMENT, FoodValues.LONG_DURATION, 0), 1.0F).usingConvertsTo(Items.BOWL).build();
 
 }
