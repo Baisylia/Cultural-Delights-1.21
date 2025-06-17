@@ -84,6 +84,7 @@ public class ModCreativeModeTabs {
                 output.accept(ModBlocks.EGGPLANT_CRATE);
                 output.accept(ModBlocks.WHITE_EGGPLANT_CRATE);
                 output.accept(ModBlocks.EXOTIC_ROLL_MEDLEY);
+                output.accept(ModBlocks.EGGPLANT_PARMESAN_BLOCK);
 
             }).build());
 

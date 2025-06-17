@@ -109,7 +109,7 @@ public class ModBlocks {
             () -> new ExoticRollMedleyBlock(BlockBehaviour.Properties.ofFullCopy(vectorwing.farmersdelight.common.registry.ModBlocks.RICE_ROLL_MEDLEY_BLOCK.get()).noOcclusion()));
 
     public static final DeferredBlock<Block> EGGPLANT_PARMESAN_BLOCK = registerBlock("eggplant_parmesan_block",
-            () -> new FeastBlock(BlockBehaviour.Properties.ofFullCopy(Blocks.CAKE), ModItems.EGGPLANT_PARMESAN, false));
+            () -> new EggplantFeastBlock(BlockBehaviour.Properties.ofFullCopy(vectorwing.farmersdelight.common.registry.ModBlocks.ROAST_CHICKEN_BLOCK.get()), ModItems.EGGPLANT_PARMESAN, true));
 
 
 
