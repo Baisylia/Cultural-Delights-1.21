@@ -31,6 +31,11 @@ repositories {
             name = "ModMaven"
             url = "https://modmaven.dev"
         }
+        maven {
+            // location of the maven that hosts Brewin and Chewin
+            name = "Greenhouse Maven"
+            url = "https://repo.greenhouse.house/releases/"
+        }
     }
     // Appleskin
     maven { url "https://maven.ryanliptak.com/" }
@@ -133,7 +138,9 @@ dependencies {
     implementation "maven.modrinth:farmers-delight:${project.farmers_delight_version}"
     //implementation "maven.modrinth:jei:${project.jei_version}"
     runtimeOnly("mezz.jei:jei-1.21.1-neoforge:${jei_version}")
-
+    implementation("umpaz.brewinandchewin:BrewinAndChewin-neoforge:${bnc_version}+${minecraft_version}") { transitive false }
+    implementation("house.greenhouse:greenhouseconfig:${greenhouse_config_version}-neoforge")
+    implementation("house.greenhouse:greenhouseconfig_toml:${greenhouse_toml_version}")
     localRuntime "maven.modrinth:appleskin:${project.appleskin_version}"
 }
 
