@@ -1,7 +1,4 @@
 {
-  "creativetab.culturaldelights.culturaldelights_tab": "Cultural Delights",
-
-
   "item.culturaldelights.cucumber_seeds": "キュウリの種",
   "item.culturaldelights.eggplant_seeds": "ナスの種",
   "item.culturaldelights.corn_kernels": "トウモロコシの実",
@@ -39,14 +36,14 @@
   "item.culturaldelights.beef_burrito": "ビーフブリート",
   "item.culturaldelights.mutton_sandwich": "マトンサンドウィッチ",
   "item.culturaldelights.eggplant_burger": "ナスバーガー",
-  "item.culturaldelights.fried_eggplant_pasta": "ナスのトマトソースパスタ",
   "item.culturaldelights.avocado_toast": "アボカドトースト",
   "item.culturaldelights.creamed_corn": "トウモロコシのクリーム煮",
   "item.culturaldelights.chicken_taco": "チキンタコス",
   "item.culturaldelights.spicy_curry": "スパイシーチキンカレー",
   "item.culturaldelights.pork_wrap": "ポークラップ",
   "item.culturaldelights.fish_taco": "フィッシュタコス",
-  "item.culturaldelights.poached_eggplants": "Poached Eggplants",
+  "item.culturaldelights.poached_eggplants": "茄子の煮浸し",
+  "item.culturaldelights.eggplant_parmesan": "取り分けたナスのパルメザングラタン",
 
   "item.culturaldelights.chicken_roll": "鶏巻き寿司",
   "item.culturaldelights.midori_roll": "かっぱ巻き寿司",
@@ -58,6 +55,11 @@
   "item.culturaldelights.egg_roll": "たまご",
   "item.culturaldelights.calamari_roll": "ゲソの握り寿司",
 
+  "block.culturaldelights.cucumbers": "キュウリ",
+  "block.culturaldelights.eggplants": "ナス",
+  "block.culturaldelights.corn": "トウモロコシ",
+  "block.culturaldelights.corn": "トウモロコシの穂",
+
   "block.culturaldelights.avocado_bundle": "束ねたアボカド",
   "block.culturaldelights.wild_cucumbers": "野生のキュウリ",
   "block.culturaldelights.wild_corn": "野生のトウモロコシ",
@@ -65,7 +67,7 @@
   "block.culturaldelights.avocado_log": "アボカドの原木",
   "block.culturaldelights.avocado_wood": "アボカドの木",
   "block.culturaldelights.avocado_leaves": "アボカドの葉",
-  "block.culturaldelights.fruiting_avocado_leaves": "実をつけるアボカドの葉",
+  "block.culturaldelights.fruiting_avocado_leaves": "実をつけたアボカドの葉",
   "block.culturaldelights.avocado_sapling": "アボカドの苗木",
   "block.culturaldelights.avocado_pit": "アボカドの種",
   "block.culturaldelights.avocado_crate": "アボカド入り木箱",
@@ -74,4 +76,19 @@
   "block.culturaldelights.corn_cob_crate": "トウモロコシ入り木箱",
   "block.culturaldelights.eggplant_crate": "ナス入り木箱",
   "block.culturaldelights.white_eggplant_crate": "白ナス入り木箱"
+  "block.culturaldelights.eggplant_parmesan_block": "ナスのパルメザングラタン",
+
+  "creativetab.culturaldelights.culturaldelights_tab": "Cultural Delights",
+
+  "tag.item.culturaldelights.all_eggplants": "ナス類",
+  "tag.item.culturaldelights.avocado_logs": "アボカドの原木",
+  "tag.item.culturaldelights.avocados": "アボカド",
+  "tag.item.culturaldelights.cooked_beefs": "調理した牛肉",
+  "tag.item.culturaldelights.cooked_chickens": "調理した鶏肉",
+  "tag.item.culturaldelights.cooked_muttons": "調理した羊肉",
+  "tag.item.culturaldelights.cooked_porks": "調理した豚肉",
+  "tag.item.culturaldelights.cucumbers": "キュウリ",
+  "tag.item.culturaldelights.raw_salmons": "生鮭",
+  "tag.item.culturaldelights.regular_eggplants": "一般的なナス",
+  "tag.item.culturaldelights.smoked_regular_eggplants": "燻製した一般的なナス"
 }
