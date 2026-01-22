@@ -19,7 +19,7 @@
   "recipe_book_tab": "misc",
   "result": {
     "count": 4,
-    "item": "culturaldelights:pickle"
+    "id": "culturaldelights:pickle"
   },
   "temperature": 2
 }

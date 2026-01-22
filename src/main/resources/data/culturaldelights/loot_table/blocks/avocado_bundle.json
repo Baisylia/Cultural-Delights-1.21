@@ -13,14 +13,14 @@
                 {
                   "condition": "minecraft:match_tool",
                   "predicate": {
-                    "enchantments": [
-                      {
-                        "enchantment": "minecraft:silk_touch",
-                        "levels": {
-                          "min": 1
+                    "predicates": {
+                      "minecraft:enchantments": [
+                        {
+                          "enchantments": "minecraft:silk_touch",
+                          "levels": 1
                         }
-                      }
-                    ]
+                      ]
+                    }
                   }
                 }
               ],
@@ -32,8 +32,8 @@
                 {
                   "function": "minecraft:set_count",
                   "count": {
-                    "min": 2.0,
-                    "max": 4.0,
+                    "min": 2,
+                    "max": 4,
                     "type": "minecraft:uniform"
                   }
                 },
