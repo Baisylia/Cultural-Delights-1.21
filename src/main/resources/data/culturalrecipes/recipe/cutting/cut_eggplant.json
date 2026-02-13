@@ -2,7 +2,7 @@
   "type": "farmersdelight:cutting",
   "ingredients": [
     {
-      "item": "culturaldelights:eggplant"
+      "tag": "c:crops/eggplant"
     }
   ],
   "result": [

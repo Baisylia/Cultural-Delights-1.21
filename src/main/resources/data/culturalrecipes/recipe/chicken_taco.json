@@ -11,10 +11,10 @@
       "item": "farmersdelight:tomato_sauce"
     },
     {
-      "tag": "culturaldelights:cucumbers"
+      "tag": "c:crops/cucumber"
     },
     {
-      "item": "culturaldelights:corn_cob"
+      "tag": "c:crops/corn"
     }
   ],
   "result": {

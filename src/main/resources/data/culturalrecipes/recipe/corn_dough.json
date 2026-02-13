@@ -5,13 +5,13 @@
       "item": "minecraft:water_bucket"
     },
     {
-      "item": "culturaldelights:corn_cob"
+      "tag": "c:crops/corn"
     },
     {
-      "item": "culturaldelights:corn_cob"
+      "tag": "c:crops/corn"
     },
     {
-      "item": "culturaldelights:corn_cob"
+      "tag": "c:crops/corn"
     }
   ],
   "result": {
