@@ -73,5 +73,23 @@
   "block.culturaldelights.pickle_crate": "Essiggurken Kiste",
   "block.culturaldelights.corn_cob_crate": "Maiskolben Kiste",
   "block.culturaldelights.eggplant_crate": "Auberginen Kiste",
-  "block.culturaldelights.white_eggplant_crate": "Weiße Auberginen Kiste"
+  "block.culturaldelights.white_eggplant_crate": "Weiße Auberginen Kiste",
+
+  "tag.item.c.crops.avocado": "Avocado",
+  "tag.item.c.crops.cucumber": "Gurke",
+  "tag.item.c.crops.eggplant": "Aubergine",
+  "tag.item.c.crops.corn": "Mais",
+  "tag.item.c.crops.rice": "Reis",
+  "tag.item.c.crops.onion": "Zwiebel",
+  "tag.item.c.crops.tomato": "Tomate",
+
+  "tag.item.c.foods.bread": "Brot",
+  "tag.item.c.foods.cooked_egg": "Gekochtes Ei",
+  "tag.item.c.foods.cooked_fish": "Gekochter Fisch",
+  "tag.item.c.foods.cooked_mutton": "Gekochtes Hammelfleisch",
+  "tag.item.c.foods.leafy_green": "Blattgemüse",
+  "tag.item.c.foods.milk": "Milch",
+
+  "tag.item.c.logs.avocado": "Avocado-Holz",
+  "tag.item.c.eggs": "Eier"
 }
