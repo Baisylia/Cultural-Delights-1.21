@@ -2,7 +2,7 @@
   "type": "farmersdelight:cutting",
   "ingredients": [
     {
-      "item": "culturaldelights:corn_cob"
+      "tag": "c:crops/corn"
     }
   ],
   "result": [

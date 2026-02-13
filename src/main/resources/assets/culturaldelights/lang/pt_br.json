@@ -69,5 +69,23 @@
   "block.culturaldelights.eggplant_crate": "Caixote de berinjelas",
   "block.culturaldelights.white_eggplant_crate": "Caixote de berinjelas brancas",
 
-  "screen.culturaldelights.bamboo_mat": "Tapete de bambu"
+  "screen.culturaldelights.bamboo_mat": "Tapete de bambu",
+
+  "tag.item.c.crops.avocado": "Abacate",
+  "tag.item.c.crops.cucumber": "Pepino",
+  "tag.item.c.crops.eggplant": "Berinjela",
+  "tag.item.c.crops.corn": "Milho",
+  "tag.item.c.crops.rice": "Arroz",
+  "tag.item.c.crops.onion": "Cebola",
+  "tag.item.c.crops.tomato": "Tomate",
+
+  "tag.item.c.foods.bread": "Pão",
+  "tag.item.c.foods.cooked_egg": "Ovo cozido",
+  "tag.item.c.foods.cooked_fish": "Peixe cozido",
+  "tag.item.c.foods.cooked_mutton": "Carneiro cozido",
+  "tag.item.c.foods.leafy_green": "Verduras",
+  "tag.item.c.foods.milk": "Leite",
+
+  "tag.item.c.logs.avocado": "Troncos de abacate",
+  "tag.item.c.eggs": "Ovos"
 }

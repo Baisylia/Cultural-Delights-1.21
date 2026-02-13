@@ -8,7 +8,7 @@
   "experience": 2.0,
   "ingredients": [
     {
-      "tag": "culturaldelights:regular_eggplants"
+      "tag": "c:crops/eggplant"
     },
     {
       "tag": "c:crops/onion"

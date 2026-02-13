@@ -90,5 +90,23 @@
   "tag.item.culturaldelights.cucumbers": "Қиярлар",
   "tag.item.culturaldelights.raw_salmons": "Шикі албырт",
   "tag.item.culturaldelights.regular_eggplants": "Қарапайым баялдылар",
-  "tag.item.culturaldelights.smoked_regular_eggplants": "Сүрленген қарапайым баялдылар"
+  "tag.item.culturaldelights.smoked_regular_eggplants": "Сүрленген қарапайым баялдылар",
+
+  "tag.item.c.crops.avocado": "Авокадо",
+  "tag.item.c.crops.cucumber": "Қияр",
+  "tag.item.c.crops.eggplant": "Баялды",
+  "tag.item.c.crops.corn": "Жүгері",
+  "tag.item.c.crops.rice": "Күріш",
+  "tag.item.c.crops.onion": "Пияз",
+  "tag.item.c.crops.tomato": "Қызанақ",
+
+  "tag.item.c.foods.bread": "Нан",
+  "tag.item.c.foods.cooked_egg": "Піскен жұмыртқа",
+  "tag.item.c.foods.cooked_fish": "Піскен балық",
+  "tag.item.c.foods.cooked_mutton": "Піскен қой еті",
+  "tag.item.c.foods.leafy_green": "Жапырақты көктер",
+  "tag.item.c.foods.milk": "Сүт",
+
+  "tag.item.c.logs.avocado": "Авокадо діңгектері",
+  "tag.item.c.eggs": "Жұмыртқалар"
 }

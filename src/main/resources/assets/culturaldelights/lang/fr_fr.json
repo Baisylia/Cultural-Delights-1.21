@@ -69,5 +69,23 @@
   "block.culturaldelights.eggplant_crate": "Caisse d'aubergines",
   "block.culturaldelights.white_eggplant_crate": "Caisse d'aubergines blanches",
 
-  "screen.culturaldelights.bamboo_mat": "Tapis de Bambou"
+  "screen.culturaldelights.bamboo_mat": "Tapis de Bambou",
+
+  "tag.item.c.crops.avocado": "Avocat",
+  "tag.item.c.crops.cucumber": "Concombre",
+  "tag.item.c.crops.eggplant": "Aubergine",
+  "tag.item.c.crops.corn": "Maïs",
+  "tag.item.c.crops.rice": "Riz",
+  "tag.item.c.crops.onion": "Oignon",
+  "tag.item.c.crops.tomato": "Tomate",
+
+  "tag.item.c.foods.bread": "Pain",
+  "tag.item.c.foods.cooked_egg": "Œuf cuit",
+  "tag.item.c.foods.cooked_fish": "Poisson cuit",
+  "tag.item.c.foods.cooked_mutton": "Mouton cuit",
+  "tag.item.c.foods.leafy_green": "Légumes-feuilles",
+  "tag.item.c.foods.milk": "Lait",
+
+  "tag.item.c.logs.avocado": "Bûches d'avocat",
+  "tag.item.c.eggs": "Œufs"
 }

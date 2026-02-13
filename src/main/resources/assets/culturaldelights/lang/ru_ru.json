@@ -90,5 +90,23 @@
   "tag.item.culturaldelights.cucumbers": "Огурцы",
   "tag.item.culturaldelights.raw_salmons": "Сырой лосось",
   "tag.item.culturaldelights.regular_eggplants": "Обычные баклажаны",
-  "tag.item.culturaldelights.smoked_regular_eggplants": "Копчёные обычные баклажаны"
+  "tag.item.culturaldelights.smoked_regular_eggplants": "Копчёные обычные баклажаны",
+
+  "tag.item.c.crops.avocado": "Авокадо",
+  "tag.item.c.crops.cucumber": "Огурец",
+  "tag.item.c.crops.eggplant": "Баклажан",
+  "tag.item.c.crops.corn": "Кукуруза",
+  "tag.item.c.crops.rice": "Рис",
+  "tag.item.c.crops.onion": "Лук",
+  "tag.item.c.crops.tomato": "Томат",
+
+  "tag.item.c.foods.bread": "Хлеб",
+  "tag.item.c.foods.cooked_egg": "Приготовленное яйцо",
+  "tag.item.c.foods.cooked_fish": "Приготовленная рыба",
+  "tag.item.c.foods.cooked_mutton": "Приготовленная баранина",
+  "tag.item.c.foods.leafy_green": "Листовая зелень",
+  "tag.item.c.foods.milk": "Молоко",
+
+  "tag.item.c.logs.avocado": "Брёвна авокадо",
+  "tag.item.c.eggs": "Яйца"
 }
