@@ -1,7 +1,7 @@
 {
   "type": "minecraft:smoking",
   "ingredient": {
-    "item": "culturaldelights:eggplant"
+    "tag": "c:crops/eggplant"
   },
   "result": {
     "count": 1,

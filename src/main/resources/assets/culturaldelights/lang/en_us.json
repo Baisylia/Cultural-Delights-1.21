@@ -90,5 +90,23 @@
   "tag.item.culturaldelights.cucumbers": "Cucumbers",
   "tag.item.culturaldelights.raw_salmons": "Raw Salmon",
   "tag.item.culturaldelights.regular_eggplants": "Regular Eggplants",
-  "tag.item.culturaldelights.smoked_regular_eggplants": "Smoked Regular Eggplants"
+  "tag.item.culturaldelights.smoked_regular_eggplants": "Smoked Regular Eggplants",
+
+  "tag.item.c.crops.avocado": "Avocado",
+  "tag.item.c.crops.cucumber": "Cucumber",
+  "tag.item.c.crops.eggplant": "Eggplant",
+  "tag.item.c.crops.corn": "Corn",
+  "tag.item.c.crops.rice": "Rice",
+  "tag.item.c.crops.onion": "Onion",
+  "tag.item.c.crops.tomato": "Tomato",
+
+  "tag.item.c.foods.bread": "Bread",
+  "tag.item.c.foods.cooked_egg": "Cooked Egg",
+  "tag.item.c.foods.cooked_fish": "Cooked Fish",
+  "tag.item.c.foods.cooked_mutton": "Cooked Mutton",
+  "tag.item.c.foods.leafy_green": "Leafy Greens",
+  "tag.item.c.foods.milk": "Milk",
+
+  "tag.item.c.logs.avocado": "Avocado Logs",
+  "tag.item.c.eggs": "Eggs"
 }

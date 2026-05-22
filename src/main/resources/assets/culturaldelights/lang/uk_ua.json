@@ -73,5 +73,23 @@
   "block.culturaldelights.pickle_crate": "Ящик маринованих огірків",
   "block.culturaldelights.corn_cob_crate": "Ящик кукурудзи",
   "block.culturaldelights.eggplant_crate": "Ящик баклажанів",
-  "block.culturaldelights.white_eggplant_crate": "Ящик білих баклажанів"
+  "block.culturaldelights.white_eggplant_crate": "Ящик білих баклажанів",
+
+  "tag.item.c.crops.avocado": "Авокадо",
+  "tag.item.c.crops.cucumber": "Огірок",
+  "tag.item.c.crops.eggplant": "Баклажан",
+  "tag.item.c.crops.corn": "Кукурудза",
+  "tag.item.c.crops.rice": "Рис",
+  "tag.item.c.crops.onion": "Цибуля",
+  "tag.item.c.crops.tomato": "Помідор",
+
+  "tag.item.c.foods.bread": "Хліб",
+  "tag.item.c.foods.cooked_egg": "Приготоване яйце",
+  "tag.item.c.foods.cooked_fish": "Приготована риба",
+  "tag.item.c.foods.cooked_mutton": "Приготована баранина",
+  "tag.item.c.foods.leafy_green": "Листова зелень",
+  "tag.item.c.foods.milk": "Молоко",
+
+  "tag.item.c.logs.avocado": "Колоди авокадо",
+  "tag.item.c.eggs": "Яйця"
 }

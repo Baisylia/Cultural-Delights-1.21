@@ -5,13 +5,13 @@
       "tag": "c:crops/tomato"
     },
     {
-      "tag": "culturaldelights:avocados"
+      "tag": "c:crops/avocado"
     },
     {
-      "item": "culturaldelights:corn_cob"
+      "tag": "c:crops/corn"
     },
     {
-      "item": "culturaldelights:cucumber"
+      "tag": "c:crops/cucumber"
     },
     {
       "item": "minecraft:bowl"

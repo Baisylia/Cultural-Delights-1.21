@@ -76,5 +76,23 @@
   "block.culturaldelights.pickle_crate": "醃黃瓜箱",
   "block.culturaldelights.corn_cob_crate": "玉米箱",
   "block.culturaldelights.eggplant_crate": "茄子箱",
-  "block.culturaldelights.white_eggplant_crate": "白茄子箱"
+  "block.culturaldelights.white_eggplant_crate": "白茄子箱",
+
+  "tag.item.c.crops.avocado": "酪梨",
+  "tag.item.c.crops.cucumber": "小黃瓜",
+  "tag.item.c.crops.eggplant": "茄子",
+  "tag.item.c.crops.corn": "玉米",
+  "tag.item.c.crops.rice": "米",
+  "tag.item.c.crops.onion": "洋蔥",
+  "tag.item.c.crops.tomato": "番茄",
+
+  "tag.item.c.foods.bread": "麵包",
+  "tag.item.c.foods.cooked_egg": "熟蛋",
+  "tag.item.c.foods.cooked_fish": "熟魚",
+  "tag.item.c.foods.cooked_mutton": "熟羊肉",
+  "tag.item.c.foods.leafy_green": "葉菜",
+  "tag.item.c.foods.milk": "牛奶",
+
+  "tag.item.c.logs.avocado": "酪梨原木",
+  "tag.item.c.eggs": "蛋"
 }

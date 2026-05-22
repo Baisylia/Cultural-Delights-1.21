@@ -79,5 +79,23 @@
 
   "_comment.english": "Intentionally untranslated, as this is the mod's name",
   "_comment.turkish": "Modun adı olduğu için bilerek çevrilmedi",
-  "creativetab.culturaldelights.culturaldelights_tab": "Cultural Delights"
+  "creativetab.culturaldelights.culturaldelights_tab": "Cultural Delights",
+
+  "tag.item.c.crops.avocado": "Avokado",
+  "tag.item.c.crops.cucumber": "Salatalık",
+  "tag.item.c.crops.eggplant": "Patlıcan",
+  "tag.item.c.crops.corn": "Mısır",
+  "tag.item.c.crops.rice": "Pirinç",
+  "tag.item.c.crops.onion": "Soğan",
+  "tag.item.c.crops.tomato": "Domates",
+
+  "tag.item.c.foods.bread": "Ekmek",
+  "tag.item.c.foods.cooked_egg": "Pişmiş yumurta",
+  "tag.item.c.foods.cooked_fish": "Pişmiş balık",
+  "tag.item.c.foods.cooked_mutton": "Pişmiş koyun eti",
+  "tag.item.c.foods.leafy_green": "Yapraklı yeşillikler",
+  "tag.item.c.foods.milk": "Süt",
+
+  "tag.item.c.logs.avocado": "Avokado kütükleri",
+  "tag.item.c.eggs": "Yumurtalar"
 }

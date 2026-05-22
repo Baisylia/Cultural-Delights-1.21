@@ -58,7 +58,7 @@
   "block.culturaldelights.cucumbers": "黄瓜",
   "block.culturaldelights.eggplants": "茄子",
   "block.culturaldelights.corn": "玉米",
-  "block.culturaldelights.corn": "玉米上部",
+  "block.culturaldelights.corn_upper": "玉米上部",
 
   "block.culturaldelights.avocado_bundle": "牛油果捆",
   "block.culturaldelights.wild_cucumbers": "野生黄瓜",
@@ -90,5 +90,22 @@
   "tag.item.culturaldelights.cucumbers": "黄瓜",
   "tag.item.culturaldelights.raw_salmons": "生鲑鱼",
   "tag.item.culturaldelights.regular_eggplants": "常规茄子",
-  "tag.item.culturaldelights.smoked_regular_eggplants": "常规烟熏茄子"
+  "tag.item.culturaldelights.smoked_regular_eggplants": "常规烟熏茄子",
+  "tag.item.c.crops.avocado": "牛油果",
+  "tag.item.c.crops.cucumber": "黄瓜",
+  "tag.item.c.crops.eggplant": "茄子",
+  "tag.item.c.crops.corn": "玉米",
+  "tag.item.c.crops.rice": "大米",
+  "tag.item.c.crops.onion": "洋葱",
+  "tag.item.c.crops.tomato": "番茄",
+
+  "tag.item.c.foods.bread": "面包",
+  "tag.item.c.foods.cooked_egg": "熟鸡蛋",
+  "tag.item.c.foods.cooked_fish": "熟鱼",
+  "tag.item.c.foods.cooked_mutton": "熟羊肉",
+  "tag.item.c.foods.leafy_green": "绿叶菜",
+  "tag.item.c.foods.milk": "牛奶",
+
+  "tag.item.c.logs.avocado": "牛油果原木",
+  "tag.item.c.eggs": "鸡蛋"
 }

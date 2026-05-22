@@ -75,5 +75,23 @@
   "block.culturaldelights.pickle_crate": "피클 상자",
   "block.culturaldelights.corn_cob_crate": "옥수수 상자",
   "block.culturaldelights.eggplant_crate": "가지 상자",
-  "block.culturaldelights.white_eggplant_crate": "흰가지 상자"
+  "block.culturaldelights.white_eggplant_crate": "흰가지 상자",
+
+  "tag.item.c.crops.avocado": "아보카도",
+  "tag.item.c.crops.cucumber": "오이",
+  "tag.item.c.crops.eggplant": "가지",
+  "tag.item.c.crops.corn": "옥수수",
+  "tag.item.c.crops.rice": "쌀",
+  "tag.item.c.crops.onion": "양파",
+  "tag.item.c.crops.tomato": "토마토",
+
+  "tag.item.c.foods.bread": "빵",
+  "tag.item.c.foods.cooked_egg": "익힌 달걀",
+  "tag.item.c.foods.cooked_fish": "익힌 생선",
+  "tag.item.c.foods.cooked_mutton": "익힌 양고기",
+  "tag.item.c.foods.leafy_green": "잎채소",
+  "tag.item.c.foods.milk": "우유",
+
+  "tag.item.c.logs.avocado": "아보카도 원목",
+  "tag.item.c.eggs": "달걀"
 }

@@ -3,7 +3,7 @@
   "group": "planks",
   "ingredients": [
     {
-      "tag": "culturaldelights:avocado_logs"
+      "tag": "c:logs/avocado"
     }
   ],
   "result": {
